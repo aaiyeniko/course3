@@ -37,6 +37,7 @@ export default {
                         subject: "Language ",
                         location: "Ukraine",
                         description: "Languages help us communicate more effectively",
+                        image: 'english.jpg',
                         price: 60,
                         inventory: 10,
                         inCart: 0
@@ -45,6 +46,7 @@ export default {
                         subject: "Calculations",
                         location: "Lagos",
                         price: 91,
+                        image: 'math.jpg',
                         inventory: 10,
                         description: "All around the world, calculations are widely used during day to day activities",
                         inCart: 0
